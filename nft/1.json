@@ -1,0 +1,19 @@
+{
+  "name": "First NFT",
+  "description": "this is just sample description of the first NFT",
+  "image": "https://nft.animalsredlist.org/nfts/Aaadonta%20angaurana.png",
+  "attributes": [
+    {
+      "trait_type": "Position",
+      "value": "F"
+    },
+    {
+      "trait_type": "Games",
+      "value": "10"
+    },
+    {
+      "trait_type": "Club",
+      "value": "CFC"
+    }
+  ]
+}
