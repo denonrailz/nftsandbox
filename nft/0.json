@@ -1,0 +1,19 @@
+{
+  "name": "Zero Num NFT",
+  "description": "this is just init image",
+  "image": "https://nft.animalsredlist.org/nfts/Aaadonta%20angaurana.png",
+  "attributes": [
+    {
+      "trait_type": "Position",
+      "value": "M"
+    },
+    {
+      "trait_type": "Games",
+      "value": "5"
+    },
+    {
+      "trait_type": "Club",
+      "value": "LFC"
+    }
+  ]
+}
